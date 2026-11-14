@@ -1,0 +1,7 @@
+name = "yt-player"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "VIDEOS"
+id = "25d362c91653440f96d5d9b359b4536d"
